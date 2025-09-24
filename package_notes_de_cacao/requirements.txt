@@ -1,0 +1,9 @@
+##  `requirements.txt`  
+ fichier `requirements.txt` :  
+
+```txt
+beautifulsoup4
+requests
+pandas
+matplotlib
+numpy
